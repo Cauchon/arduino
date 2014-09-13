@@ -3,7 +3,8 @@ arduino
 
 The folders in this repo consists mostly of starter projects and starter projects that 
 have been enhanced.
-=======
+
+--------------------
 
 Automatic_Light_Switch_And_Measure folder
 
